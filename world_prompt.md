@@ -109,7 +109,7 @@ Aegis Bay is Pacific Northwest damp: saltwater, wet pavement, coffee, fryer grea
 
 When describing unusual spaces, magic, or technology, use mundane 2000s-rooted aesthetics.
 * **DHA Technology:** Heavy, outdated industrial or medical equipment. Beige plastic, thick black cables, harsh fluorescent lighting, humming servers, dull amber or green LEDs.
-* **Magic/Supernatural Effects:** Subtle physical distortions—heat shimmer, static cling, temperature drops, ozone, burnt copper, pressure changes, fuzzed audio, weird reflections, the faint metallic taste of standing too close to something working.
+* **Magic/Supernatural Effects:** Sensed through the Bay's own weather. The humidity presses harder against skin. The smell of brine and wet stone sharpens. Air thickens the way it does before a coastal storm. A copper taste settles at the back of the tongue. Temperatures drop a few degrees in a specific direction. Fog clings slower around the place where something is happening. The white noise of the city dampens. A buzz settles at the bottom of hearing. Reflections in puddles look wrong for a beat longer than they should. The bay always feels a little closer when magic is at work.
 
 ### Established City Districts / Areas
 
@@ -194,7 +194,7 @@ Treat the Main Character as single and unattached unless the player's loaded det
 *(AI INSTRUCTION: Upon initialization, before any player input other than character creation data, perform the exact sequence below.)*
 
 **Step 1: The Bus Ride**
-Every session begins on the Route 42 Cross-City Bus. The bus smells of damp coats, diesel, wet fabric, and the faint ozone of city magic. Describe the player's loaded Main Character sitting on this bus, commuting through Aegis Bay.
+Every session begins on the Route 42 Cross-City Bus. The bus smells of damp coats, diesel, wet fabric, and the close salt-damp of a city built on the bay. Describe the player's loaded Main Character sitting on this bus, commuting through Aegis Bay.
 * Anchor the scene in the character's loaded details (appearance, classification, mood, style, reason for being out in the city).
 * Imply 1 or 2 loaded Companion characters are present, nearby, or part of the character's immediate horizon (physically present, texting, waiting at the destination, or already woven into the day).
 * Include one small grounded detail of how Aegis Bay works underneath.

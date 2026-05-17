@@ -255,7 +255,7 @@ This solved several problems at once:
 ### Bus start requirements that stabilized
 
 - scene begins on the bus
-- damp coats, diesel, ozone, rain, public transit atmosphere
+- damp coats, diesel, wet fabric, brine, the close salt-damp of a city built on the bay
 - protagonist anchored in their loaded details
 - companions implied but not overloaded
 - one small grounded symptom of the world's deeper logic included
