@@ -1,0 +1,450 @@
+1:# https://wyndra.live/guides/world-prompt-
+15:## World Prompt Best Practices ΓÇö Wyndra Guides
+22:### How the AI Reads Your Prompt
+33:### 1. Structure Your Prompt Deliberately
+51:### 2. Define Your Core Mechanic as an Action
+63:### 3. Balance Your Entries
+69:### 4. Build Organizations in Three Layers
+81:### 5. Establish a Sensory Palette
+87:### 6. Build Name Lists of the Right Size
+98:### 7. Anchor Your Tone with Examples
+104:### 8. Frame Threats at the Right Scale
+110:### 9. Set Pacing Expectations Explicitly
+116:### 10. Use Positive Framing Throughout
+124:### Complexity and Scope
+136:### Quick Reference Checklist (Before Deploy)
+160:# World Concept
+163:# World Rules
+164:## Supernatural Coexistence
+166:## Department of Heroic Affairs (DHA)
+168:## The Mythic Tax
+170:## Supernatural/Mythic Distinction
+173:# Player Rules
+174:## Content Tone
+176:## Social Dynamics
+179:# History
+180:## The Veil and Its Fractures
+183:## Global Emergence and Industrial Compounding
+186:## The Origin of the Supernatural/Mythic Divide
+189:## Modern Era: Narrative and Bureaucracy
+192:# Culture
+193:## Daily Life
+196:# Geography
+199:# Conflicts
+200:## Institutional Inequality
+202:## Bureaucratic Pressure
+204:## Adapting vs. Managing
+206:## Post-Decline Struggles
+209:# Aesthetic Style
+212:# Narrative Style
+215:# Naming
+218:# STORY START INSTRUCTIONS
+233:## Structure Audit
+259:## Core Mechanic: Missing the Action Scene
+275:## Balance Audit
+294:## Organizations: Missing Two Layers
+308:## Sensory Palette: Strong Start, Needs Consolidation
+322:## Name Lists: Critical Omission
+334:## Tone: No Examples
+350:## Threat Scale: Good, Needs Explicit Occupational Framing
+358:## Pacing: Missing Explicit Stillness Permission
+366:## Positive Framing: Partial Pass
+372:## Recommended Reconstruction
+390:## Summary: Priority Fixes
+428:## But here's the thing: you don't need to name it for it to work.
+440:## What that could look like in the prompt:
+454:## Why this works:
+463:## The deeper Wyndra principle here:
+473:## So: do you list it as a core mechanic?
+507:## What this means for the AI prompt:
+519:## Performing the mechanic (consumption focus):
+533:## This last one is important ΓÇö it performs the denial.
+539:## The theorists:
+551:## One structural question for you:
+586:## The Orthogonality Audit
+592:### Axis 1 ΓÇö Integration
+614:### Axis 2 ΓÇö Coherence
+642:### Axis 3 ΓÇö Liminality
+695:## The Fully Orthogonal Three-Axis Model
+713:## What This Reframes
+735:## The Revised Scales
+739:### Axis 1: Integration (Mundane Γåö Mythic)
+749:### Axis 2: Coherence (Coherent Γåö Void)
+759:### Axis 3: Liminality (Sealed Γåö Dissolved)
+771:## Key Coordinates
+806:## The Visibility Question, Restated
+818:## So: What Goes Into the Prompt?
+824:### Integration ΓåÆ Performed As:
+830:### Coherence ΓåÆ Performed As:
+838:### Liminality ΓåÆ Performed As:
+846:## The DHA's Wrong Measurement System
+856:## The Theorists: Fragments, Not the Whole
+868:## What Actually Goes In the Prompt: A Summary
+883:## The Deeper Principle
+915:## The Real Solution: The Gap Is Performed, Not Described
+923:### What the AI Gets (The Real Mechanic, Performed):
+927:### What the AI Gets (The DHA, Performed):
+939:### The Gap, Performed (No Explanation):
+950:## The Theorists, Revisited
+962:## The Core Mechanic Section: Revisited
+988:## The Three-Axis Model: Creator-Only
+1013:## The Short Answer: You Can't
+1023:### What They Tested:
+1035:## Why This Matters for Your Prompt
+1047:## What Actually Works
+1060:## The Platform-Level Solutions (For Reference)
+1072:## The Practical Implication
+1085:## The Irony
+1103:## The Two Things People Mean by "Hide From AI"
+1120:## What Inline Annotation Tags Actually Do
+1136:## What *Actually* Compartmentalizes From the AI
+1165:## What This Means For Your Setup
+1183:## The Honest Caveat
+1191:## So: Your Memory Was Right and Wrong
+1209:## What This Forces (Productively)
+1224:## The Revised Approach: Three Tiers
+1238:## What the Prompt's Veil Section Becomes
+1268:## What the Prompt's DHA Section Becomes
+1288:## How You Run the Theorists
+1304:## Practical Checklist
+1326:# WORLD CONCEPT
+1333:# BASE PROMPT STANDARDS
+1357:# ENTRY POINT
+1365:# NARRATOR
+1373:# WORLD OVERVIEW
+1383:# AETHRUM
+1415:# PEOPLES AND CULTURES
+1420:## Legacy Families
+1432:## Common Students
+1444:## Bloodline Practitioners
+1455:## Faculty and Institutional Staff
+1467:## Vitalis Residents
+1475:# FACTIONS AND ORGANIZATIONS
+1480:## Etherium Institute
+1491:## Vril Academy
+1496:## Pneuma Institute
+1501:## Numen College
+1506:## Dynamis
+1511:## Ardea
+1516:## Entelechy
+1521:## Notable Families
+1527:# LOCATIONS AND GEOGRAPHY
+1536:## Vitalis
+1545:## Etherium Institute
+1562:## Vril Academy
+1567:## Pneuma Institute
+1572:## Numen College
+1577:## The Entelechy Arena
+1583:# ADDITIONAL WORLD SYSTEMS
+1586:## The Entrance Ceremony and Three-Phase Assessment
+1597:## Weapon Matching
+1612:## The Prestige System
+1625:## Ether-coin (EC)
+1640:## The Academic Year
+1664:## Curriculum
+1690:## Student Record
+1717:# NAMING CONVENTIONS
+1720:## Vitalis Names
+1735:# TERMINOLOGY
+1761:# TONE AND PACING
+1785:## Structural Lessons This Example Confirms
+1799:## The Bloodline Trick ΓÇö This Is Actually Important
+1813:## Platform Features I Now Understand
+1824:## The Tracked Record Insight
+1851:## What I'd Suggest We Do Next
+1876:## What Aegis Bay Needs To Be
+1899:## What This Means For The Tracked Record
+1909:## What This Means For Geography
+1935:## What This Means For Entry Points
+1947:## What This Means For Tone
+1964:## What This Means For The Protagonist Archetypes
+1979:## Proposed Revised Structure
+2001:## Three Decisions To Make Before We Start Drafting
+2049:## Why The Opening Generation Is The Highest-Leverage Moment
+2063:## What This Means For The Prompt's Design
+2071:## What Makes Aegis Bay Openings Good
+2075:### Each opening should locate the protagonist in three dimensions:
+2083:### The three openings should differ on at least two of these axes:
+2087:### Each opening should perform the Veil mechanic at low intensity:
+2091:### Each opening should imply the companions and NPCs without consuming them:
+2095:### The three openings should span the story-mode range:
+2109:## How The Cast Loads Into The Openings
+2125:## How This Reshapes Our Priorities
+2149:## What I'd Recommend Now
+2187:## What The Story Start Section Has To Do
+2199:## A Drafting Plan
+2209:## Where I'd Suggest We Start
+2235:## Etherium Institute ΓÇö Skeleton with Word Counts
+2240:# WORLD CONCEPT (header only)                              ~10 words
+2243:# BASE PROMPT STANDARDS                                    ~620 words
+2255:# ENTRY POINT                                              ~110 words
+2259:# NARRATOR                                                  ~80 words
+2264:# WORLD OVERVIEW                                           ~230 words
+2271:# AETHRUM (core mechanic)                                  ~720 words
+2281:# PEOPLES AND CULTURES                                     ~720 words
+2289:# FACTIONS AND ORGANIZATIONS                               ~810 words
+2300:# LOCATIONS AND GEOGRAPHY                                  ~880 words
+2309:# ADDITIONAL WORLD SYSTEMS                                ~1,720 words
+2318:# NAMING CONVENTIONS                                       ~200 words
+2324:# TERMINOLOGY                                              ~200 words
+2327:# TONE AND PACING                                          ~640 words
+2356:## Aegis Bay ΓÇö Proposed Skeleton with Word Counts
+2359:# WORLD CONCEPT (header only)                              ~10 words
+2362:# BASE PROMPT STANDARDS                                    ~550 words
+2379:# NARRATOR                                                 ~120 words
+2388:# WORLD OVERVIEW                                           ~220 words
+2398:# THE VEIL (core mechanic ΓÇö performed)                     ~450 words
+2410:# THE DEPARTMENT OF HEROIC AFFAIRS                         ~480 words
+2423:# PEOPLES                                                  ~700 words
+2436:# FACTIONS AND ORGANIZATIONS                               ~600 words
+2448:# AEGIS BAY: THE CITY                                     ~1,100 words
+2462:# DAILY SYSTEMS                                            ~450 words
+2475:# NAMING CONVENTIONS                                       ~280 words
+2486:# TERMINOLOGY                                              ~250 words
+2494:# TONE AND PACING                                          ~720 words
+2512:# STORY START                                              ~470 words
+2536:## Comparison Table
+2556:## Where The Word-Count Center Of Gravity Sits
+2568:## Balance Audit Concerns
+2619:## What The Image Establishes (That We Should Honor In The Prompt)
+2657:## Concrete Additions To The Skeleton
+2661:### In Base Standards / Style note:
+2669:### In Sensory Palette (Locations):
+2675:### In DHA section:
+2685:### In Peoples ΓÇö Mythic Beings:
+2691:### In Story Start / Opening visuals:
+2697:## One Thing The Image Suggests That We Should Discuss
+2707:## What I'd Add To The Skeleton's Word Counts
+2724:## Verdict
+2765:## Revised Snippets
+2767:### Base Standards / Visual Register:
+2771:### Peoples ΓÇö Mythic Beings:
+2775:### Art line example (for a furry NPC):
+2805:## Art Line Examples
+2846:# HOW AEGIS BAY WORKS UNDERNEATH
+2897:## Word count: ~445
+2899:## What's in here, and why:
+2911:## What's deliberately NOT here:
+2920:## On the title ΓÇö "HOW AEGIS BAY WORKS UNDERNEATH":
+2924:## On "Narrative Contamination Hypothesis":
+2928:## A note on what this section will do to the rest of the prompt:
+2948:### Why this is perfect for the AI:
+2956:### Revised "Veil" section snippet (if you want to be safe):
+2984:### Why this works:
+3094:### How We Slot This Into the Prompt:
+3152:# AEGIS BAY: THE CITY
+3156:## Sensory Palette
+3159:## The City Core (The Bureaucratic Gravity)
+3163:## The Docks and Industrial Waterfront (The Rust and Salt)
+3167:## Low-Income Residential / The Enclaves (The Melting Pot)
+3171:## The Suburbs and The Outskirts (The Illusion of Quiet)
+3175:## The University District (The Theoretical Edge)
+3179:## Old Town / Historic Waterfront (The Thin Places)
+3183:## The Aegis Bay Convention Center (The Neutral Ground)
+3187:## The Transit Corridors (The Connective Tissue)
+3230:### THE FOUR MAJOR FACTIONS (The Pillars)
+3238:### THE MINOR FACTIONS (The Texture)
+3246:### What about "Wiz-Burger"?
+3295:### The "Hero" vs. "Villain" Paradigm in Aegis Bay
+3314:### How this looks in the "Factions" Draft:
+3321:# FACTIONS AND ORGANIZATIONS
+3323:## The Department of Heroic Affairs (DHA)
+3328:## Private Heroic Contractors (The Sanctioned Firms)
+3333:## The Mythic Rights Coalition (MRC)
+3338:## The Multispecies Industrial Unions
+3343:## Minor Factions and "Villains" (Generated as Needed)
+3415:### Who Responds to What? (The Economics of Emergencies)
+3427:### 1. The Flashy PR Firm (International, Celebrity, Vought-lite)
+3435:### 2. The PMC Heavy Hitters (Statewide/International, Blackwater-style)
+3443:### 3. The Federal / Penal Firm (State-funded, Cop/Convict Hybrid)
+3451:### 4. The Grassroots Local Firm (The Preferred Alternative)
+3501:### Revised Snippet for the FACTIONS Section:
+3513:### Why this works for the AI:
+3621:### Revised Snippet for the DAILY SYSTEMS Section:
+3636:### Why this structure works:
+3684:### Revised Snippet for PEOPLES & DAILY SYSTEMS
+3706:### The Socratic Check: Did we cover everything important?
+3746:### 4. The Penal Tier
+3751:### 5. The "Enemy of the State" Tier (The Cold War Holdover)
+3758:### Let's look at the full 5-Tier list now:
+3806:### Revised Snippet: The Two-Track Bureaucracy
+3826:### Why this split works:
+3924:### Γ£à THE MEAT (Drafted & Locked)
+3932:### ≡ƒÜº THE FRAMING (Needs to be Drafted)
+3956:# [SETTING NAME] ΓÇö World Prompt
+3957:## Version 2.0
+3965:## BASE PROMPT STANDARDS
+3981:## NARRATOR
+3989:## WORLD OVERVIEW
+3999:## [CORE MECHANIC NAME]
+4018:## PEOPLES AND CULTURES
+4022:### [People or Culture Name]
+4038:## FACTIONS AND ORGANIZATIONS
+4042:### [Organization Name]
+4058:## LOCATIONS AND GEOGRAPHY
+4068:### [Location Name]
+4082:## [ADDITIONAL WORLD SYSTEMS]
+4087:## NAMING CONVENTIONS
+4091:### [People/Culture Name] Names
+4108:## TERMINOLOGY
+4117:## TONE AND PACING
+4133:# MECHANICS AND FRAMING PATTERN LIBRARY
+4141:## QUICK REFERENCE INDEX
+4158:## PART 1 ΓÇö MECHANICS AND SCALE
+4164:### CORE MECHANIC ΓÇö AMBIENT FORCE
+4181:### CORE MECHANIC ΓÇö DRAMATIC SCALE DEFAULT
+4198:### THREAT SCALE CONTAINMENT
+4213:## PART 2 ΓÇö WORLD DETAIL
+4219:### ORGANIZATION DEPTH
+4232:### SENSORY PALETTE
+4249:## PART 3 ΓÇö NAMING
+4253:### NAMING ΓÇö LIST SIZE AND GUIDANCE
+4277:## PART 4 ΓÇö TONE AND PACING
+4283:### PACING ΓÇö NARRATIVE MOMENTUM
+4298:### PACING ΓÇö ROMANCE ESCALATION
+4313:### TONE DRIFT
+4328:### EXTRAPOLATION HANDLING
+4352:# AEGIS BAY ΓÇö World Prompt
+4353:## Version 2.0
+4357:## BASE PROMPT STANDARDS
+4375:## NARRATOR
+4383:## WORLD OVERVIEW
+4393:## HOW AEGIS BAY WORKS UNDERNEATH
+4409:## PEOPLES AND CULTURES
+4411:### Mundane Humans
+4416:### Supernaturals (Powered Humans)
+4421:### Mythics (Non-Humans)
+4428:## FACTIONS AND ORGANIZATIONS
+4430:### Department of Heroic Affairs (DHA)
+4437:### Private Heroic Contractors (PHCs) / The "Hero" Industry
+4444:### Mythic Rights Coalition (MRC)
+4450:### Multispecies Industrial Unions
+4460:## LOCATIONS AND GEOGRAPHY
+4465:### The City Core (The Bureaucratic Gravity)
+4469:### The Docks and Industrial Waterfront (The Rust and Salt)
+4473:### Low-Income Residential / The Enclaves (The Melting Pot)
+4477:### The Suburbs and The Outskirts (The Illusion of Quiet)
+4481:### The University District (The Theoretical Edge)
+4485:### Old Town / Historic Waterfront (The Thin Places)
+4489:### The Convention Center (The Neutral Ground)
+4493:### The Transit Corridors (The Connective Tissue)
+4499:## DAILY SYSTEMS
+4501:### The Civic Accommodation Surcharge (The Mythic Tax)
+4506:### DHA Tracking: Registration & Risk
+4522:## NAMING CONVENTIONS
+4524:### Aegis Bay Names
+4536:## TERMINOLOGY
+4546:## TONE AND PACING
+4560:## STORY START / OPENING GENERATION
+4622:### Now, the Registers. You are 100% right on this.
+4630:### Revised Story Start Section:
+4656:### How this works in practice:
+4693:### 1. The Edit to the World Overview
+4698:### 2. The Edit to the Terminology Section
+4746:### The Tweak (Inside the Story Start Rules):
+4800:# AEGIS BAY ΓÇö World Prompt
+4804:## BASE PROMPT STANDARDS
+4822:## NARRATOR
+4830:## WORLD OVERVIEW
+4840:## HOW AEGIS BAY WORKS UNDERNEATH
+4856:## PEOPLES AND CULTURES
+4858:### Mundane Humans
+4861:### Supernaturals (Powered Humans)
+4864:### Mythics (Non-Humans)
+4869:## FACTIONS AND ORGANIZATIONS
+4871:### Department of Heroic Affairs (DHA)
+4876:### Private Heroic Contractors (PHCs) / The "Hero" Industry
+4883:### Mythic Rights Coalition (MRC)
+4888:### Multispecies Industrial Unions
+4897:## LOCATIONS AND GEOGRAPHY
+4913:## DAILY SYSTEMS
+4915:### The Civic Accommodation Surcharge (The Mythic Tax)
+4920:### DHA Tracking: Registration & Risk
+4936:## NAMING CONVENTIONS
+4946:## TERMINOLOGY
+4957:## TONE AND PACING
+4971:## STORY START / OPENING GENERATION
+5025:### Copy/Paste this into your reserved forum post:
+5028:# ≡ƒôé THE GM'S SCREEN: HIDDEN ARCHITECTURE
+5034:## 1. THE ALT-HISTORY: WHY THE VEIL BROKE
+5044:## 2. THE 3-AXIS ONTOLOGICAL MODEL (How Reality Actually Works)
+5059:## 3. THE TRUE NATURE OF THE "SUPERNATURAL" VS. "MYTHIC" SPLIT
+5066:## 4. THE DHA'S BLIND SPOT
+5103:### Copy/Paste this into your lore thread:
+5106:# ≡ƒô£ THE ARCHIVES: A COMPLETE HISTORY OF THE FRACTURE
+5111:### ERA 1: THE OLD WORLD AND THE FIRST FRACTURES (Pre-1500s)
+5117:### ERA 2: COLONIALISM AND THE BREAKING OF THE WEST (1500sΓÇô1700s)
+5123:### ERA 3: THE INDUSTRIAL MEMBRANE & AEGIS BAY (1750ΓÇô1910)
+5128:### ERA 4: THE LABOR WARS & THE ORIGINAL SIN (1850sΓÇô1930s)
+5135:### ERA 5: THE NARRATIVE AGE & THE COLD WAR (1938ΓÇô1990s)
+5141:### ERA 6: THE MODERN CRISIS (1990sΓÇôPresent)
+5179:### Copy/Paste this into your lore thread:
+5182:# ≡ƒôÉ THE 3-AXIS ONTOLOGICAL MODEL (How Reality Actually Breaks)
+5190:## AXIS 1: INTEGRATION (Who is here?)
+5204:## AXIS 2: COHERENCE (Do the stories agree?)
+5218:## AXIS 3: LIMINALITY (How thin is the boundary?)
+5232:## CASE STUDIES: MULTI-AXIS HISTORICAL EVENTS
+5235:### 1. The Cahokia Seal (c. 1100 CE)
+5239:### 2. The Late Aegis Bay Collapse (1890s)
+5243:### 3. The Superhero Comic Boom (1938+)
+5247:### 4. The Nuclear Bomb (1945+)
+5251:### 5. THE WARNING: The (4, 4, 4) State
+5280:# ≡ƒôé GM'S SCREEN: THE HIDDEN LORE
+5327:# Welcome to Aegis Bay (Circa 2026)
+5383:# ≡ƒôì AEGIS BAY CITY GUIDE: CANON LOCATIONS
+5386:### ≡ƒÅó THE CITY CORE (The Bureaucratic Gravity)
+5392:### ΓÜô THE DOCKS & INDUSTRIAL WATERFRONT (The Rust & Salt)
+5398:### ≡ƒÅÿ∩╕Å BRENTWOOD & THE ENCLAVES (Low-Income Residential)
+5403:### ≡ƒôÜ THE UNIVERSITY DISTRICT (The Theoretical Edge)
+5408:### ≡ƒò░∩╕Å OLD TOWN / HISTORIC WATERFRONT (The Thin Places)
+5413:### ≡ƒî▓ THE SUBURBS & OUTSKIRTS (The Illusion of Quiet)
+5418:### ≡ƒñ¥ THE CONVENTION CENTER (Neutral Ground)
+5421:### ≡ƒÜè THE TRANSIT CORRIDORS (The Connective Tissue)
+5455:# ≡ƒôì AEGIS BAY CITY GUIDE: CANON LOCATIONS
+5458:### ≡ƒÅó THE CITY CORE (The Bureaucratic Gravity)
+5464:### ΓÜô THE DOCKS & INDUSTRIAL WATERFRONT (The Rust & Salt)
+5470:### ≡ƒÅÿ∩╕Å BRENTWOOD & THE ENCLAVES (Low-Income Residential)
+5475:### ≡ƒôÜ THE UNIVERSITY DISTRICT (The Theoretical Edge)
+5480:### ≡ƒò░∩╕Å OLD TOWN / HISTORIC WATERFRONT (The Thin Places)
+5485:### ≡ƒî▓ THE SUBURBS & OUTSKIRTS (The Illusion of Quiet)
+5490:### ≡ƒñ¥ THE CONVENTION CENTER & TRANSIT
+5524:### Replace the old STORY START section with this:
+5527:## STORY START / OPENING GENERATION
+5622:### Replace Step 2 in the Story Start section with this:
+5653:# MECHANICS AND FRAMING PATTERN LIBRARY
+5661:## QUICK REFERENCE INDEX
+5678:## PART 1 ΓÇö MECHANICS AND SCALE
+5684:### CORE MECHANIC ΓÇö AMBIENT FORCE
+5701:### CORE MECHANIC ΓÇö DRAMATIC SCALE DEFAULT
+5718:### THREAT SCALE CONTAINMENT
+5733:## PART 2 ΓÇö WORLD DETAIL
+5739:### ORGANIZATION DEPTH
+5752:### SENSORY PALETTE
+5769:## PART 3 ΓÇö NAMING
+5773:### NAMING ΓÇö LIST SIZE AND GUIDANCE
+5797:## PART 4 ΓÇö TONE AND PACING
+5803:### PACING ΓÇö NARRATIVE MOMENTUM
+5818:### PACING ΓÇö ROMANCE ESCALATION
+5833:### TONE DRIFT
+5848:### EXTRAPOLATION HANDLING
+5890:### ≡ƒ¢á∩╕Å THE PATCH:
+5941:### ≡ƒ¢á∩╕Å THE PATCH:
+5988:### ≡ƒ¢á∩╕Å THE PATCH:
+6036:### ≡ƒ¢á∩╕Å THE CORRECTED PATCH:
+6095:## STORY START / OPENING GENERATION
+6135:### ≡ƒ¢á∩╕Å THE HYBRID STORY START PATCH:
+6292:### ≡ƒ¢á∩╕Å THE PATCH:
+6337:### ≡ƒ¢á∩╕Å THE POSITIVE-FRAMING PATCH:
+6380:### ≡ƒ¢á∩╕Å THE PATCH:
+6399:## STORY START / OPENING GENERATION
+6454:### ≡ƒ¢á∩╕Å THE UPGRADED STOP MENU:
+6475:### Why these changes pay off the genre promises:
+6509:### ≡ƒ¢á∩╕Å THE NEW STOP TO ADD:
+6517:### Why this nails the genre promise:
+6550:### ≡ƒ¢á∩╕Å THE PATCH: 
+6587:# AI CONTEXT HANDOFF: PROJECT AEGIS BAY
+6596:## 1. PROJECT SYNOPSIS: AEGIS BAY
+6601:## 2. THE HIDDEN ARCHITECTURE (Creator Lore)
+6608:## 3. FACTIONS & REGISTRATION
+6615:## 4. LOCATIONS & GEOGRAPHY (The Genre Engine)
+6625:## 5. CURRENT STATE OF THE PROMPT

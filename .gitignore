@@ -9,7 +9,8 @@ lerna-debug.log*
 # database
 *.sqlite
 
-# package-json
+# package-lock files
+package-lock.json
 package-json.lock
 
 # bun deploy file
